@@ -5,5 +5,8 @@ public class test1Deneme {
         System.out.println("deneme");
         System.out.println("esra deneme ilk");
         // dlöashbföäsxdflbh
+
+        // ikinci degisklik
+
     }
 }
